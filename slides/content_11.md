@@ -10,4 +10,4 @@ BigDecimal('invalid value') # => #<BigDecimal:7fe6f9a6a058,'0.0',9(9)>
 BigDecimal('invalid value') # => ArgumentError: invalid value for BigDecimal(): "invalid value"
 ```
 
-* テストの修正だけ
+* Railsではテストの修正だけ

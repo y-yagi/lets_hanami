@@ -9,4 +9,4 @@ def @cache.delete_entry (*args)
 #=> test/caching_test.rb:986: warning: an argument list, not a decomposed argument
 ```
 
-* テストの修正だけ
+* Railsではテストの修正だけ
