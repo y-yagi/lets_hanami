@@ -3,10 +3,12 @@
 * Ruby 2.4からメソッド名と引数の括弧の間にスペースがあるとwarningが出るようになりました
 
 ```ruby
-def @cache.delete_entry (*args)
+def delete_entry (*args)
+  ...
+end
 
-#=> test/caching_test.rb:986: warning: parentheses after method name is interpreted as
-#=> test/caching_test.rb:986: warning: an argument list, not a decomposed argument
+# => test/caching_test.rb:986: warning: parentheses after method name is interpreted as
+# => test/caching_test.rb:986: warning: an argument list, not a decomposed argument
 ```
 
 * Railsではテストの修正だけ
