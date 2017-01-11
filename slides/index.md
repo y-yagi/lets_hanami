@@ -1,5 +1,5 @@
 
-## Ruby 2.4 on Rails
+## About Sequel
 
-**y-yagi@Ginza.rb 第42回**
+**y-yagi@Ginza.rb 第43回**
 
