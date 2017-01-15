@@ -8,7 +8,7 @@ Article.where('id = ?', 13).update(title: '正月休みは終わってしまっ�
 
 * DELETE
 
-```
+```ruby
 Article.exclude(active: true).delete
 # => DELETE FROM "articles" WHERE ("active" IS NOT TRUE)
 

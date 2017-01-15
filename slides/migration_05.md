@@ -1,4 +1,4 @@
-## Migrations
+## transaction
 
 * デフォルトのtransactionの設定はDBによって異なる
   * transactional DDL をサポートしているDB(e.g. PostgreSQL)ではデフォルトでmigrationの実行はtransaction内で行われる
