@@ -1,5 +1,4 @@
 ## Migrations
 
-* 外部キー設定(foreign_key)、CHECK制約(check)、VIEW作成(create_view)、や複合主キーの設定(e.g. "add_primary_key [:album_id, :artist_id]")用のメソッドも提供されている
-  * create_viewに"materialized"オプションを指定する事でマテビューも作れる
-* 大抵の事はRubyレベルで出来るようになっている
+* 重複したversionの実行を許可する/しない、versionの情報を全て保持する/最新のバージョンだけ保持する、等色々と違いがある
+* 一人での開発やチームが少人数の場合は`IntegerMigrator`の方がオススメされている

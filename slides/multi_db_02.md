@@ -1,6 +1,6 @@
 ## 複数DB(余談)
 
-* Rails 5.1.0で複数DB対応が入りますね
+* Railsにも5.1.0で複数DB対応が入りますね
   * [new database\.yml format](https://github.com/rails/rails/pull/27611)
 
 ```

@@ -1,4 +1,24 @@
 ## Migrations
 
-* 重複したversionの実行を許可する/しない、versionの情報を全て保持する/最新のバージョンだけ保持する、等色々と違いがある
-* 一人での開発やチームが少人数の場合は`IntegerMigrator`の方がオススメされている
+* IntegerMigrator
+
+```ruby
+001_create_artists.rb
+002_add_artist_location.rb
+...
+009_do_something.rb
+010_do_something_else.rb
+```
+
+* TimestampMigrator
+
+```ruby
+# Date
+20100510_create_artists.rb
+
+# Date and Time
+20100510120000_create_artists.rb
+
+# Unix Epoch Time Integer
+1273518000_create_artists.rb
+```
