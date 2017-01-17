@@ -1,7 +1,7 @@
 ## Validations
 
 * validation用のメソッドもある
-* validation用のメソッドはcoreに含まれておらず、別途pluginを追加する必要がある
+* validation用のメソッドはcoreに含まれておらず、`validation_helpers` pluginを有効にする必要がある
 
 ```ruby
 class Album < Sequel::Model

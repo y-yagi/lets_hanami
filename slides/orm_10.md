@@ -1,6 +1,6 @@
 ## Model Plugins
 
-* 例えば、created_at / updated_atの自動更新がplugin(timestamps plugin)として提供されている
+* 例えば、created_at / updated_atの自動更新がtimestamps pluginとして提供されている
 
 ```ruby
 class Article < Sequel::Model

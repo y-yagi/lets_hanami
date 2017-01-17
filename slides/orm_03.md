@@ -6,6 +6,9 @@
 Article.where('id = ?', 13).to_a
 # => SELECT * FROM "articles" WHERE (id = 13)
 
+Article.find(id: 13)
+# => SELECT * FROM "articles" WHERE ("id" = 13) LIMIT 1
+
 Article[1]
 # => SELECT * FROM "articles" WHERE "id" = 1
 
