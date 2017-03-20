@@ -13,6 +13,8 @@
   "system_test_03.md",
   "system_test_04.md",
   "system_test_05.md",
+  "system_test_06.md",
+  "system_test_07.md",
   "encrypted_secrets_01.md",
   "encrypted_secrets_02.md",
   "encrypted_secrets_03.md",
@@ -69,5 +71,6 @@
   "railties_01.md",
   "railties_02.md",
   "railties_03.md",
+  "railties_04.md",
   "matome.md"
 ]
