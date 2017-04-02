@@ -13,6 +13,8 @@
   "architecture_06.md",
   "architecture_07.md",
   "architecture_08.md",
+  "application_01.md",
+  "application_02.md",
   "routing_01.md",
   "routing_02.md",
   "routing_03.md",
@@ -54,5 +56,14 @@
   "mailers_02.md",
   "mailers_03.md",
   "mailers_04.md",
-  "matome.md"
+  "assets_01.md",
+  "assets_02.md",
+  "assets_03.md",
+  "assets_04.md",
+  "assets_05.md",
+  "futures_01.md",
+  "futures_02.md",
+  "futures_03.md",
+  "matome_01.md",
+  "matome_02.md"
 ]
