@@ -4,4 +4,4 @@
   * 昔はフリーランスだったが、今は [DNSimple](https://dnsimple.com/)の中の人
   * [Welcome Luca Guidi \- DNSimple Blog](https://blog.dnsimple.com/2016/03/welcome-luca-guidi/)
 * 最初のリリースは2014/01/01
-* 最新バージョンは1.0.0(のはず)
+* 最新バージョンは1.0.0(2017/04/06)リリース
