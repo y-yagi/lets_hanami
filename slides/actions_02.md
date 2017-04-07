@@ -17,4 +17,4 @@ end
 ```
 
 * 必要なのは、"Action" moduleのincludeと、"call"メソッドを定義する事だけ
-* `view`の定義はViewクラスで行う(後述)
+* "view"の定義はViewクラスで行う(後述)

@@ -1,6 +1,6 @@
 ### Models
 
-"book" に対するCRUDは"BookRepository"を経由して行う
+"book" に対するCRUDは"BookRepository"を使用して行う
 
 ```
 repository = BookRepository.new

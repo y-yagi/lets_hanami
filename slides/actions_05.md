@@ -1,6 +1,6 @@
 ### Params
 
-* ホワイトリスト処理は `params`メソッドで行う
+* ホワイトリスト処理は "params"メソッドで行う
 
 ```ruby
 module Web::Controllers::Signup

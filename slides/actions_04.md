@@ -1,7 +1,6 @@
 ### Params
 
-
-* Rails同様、params変数を操作すればOK
+* params変数を操作すればOK
 
 ```ruby
 module Web::Controllers::Dashboard
