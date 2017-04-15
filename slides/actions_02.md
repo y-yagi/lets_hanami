@@ -1,7 +1,7 @@
 ### Actions
 
 * Railsと異なり、1つのクラスに1つのアクションを定義する
-* `index`アクションを定義する場合
+* "index"アクションを定義する場合
 
 ```ruby
 # apps/web/controllers/dashboard/index.rb

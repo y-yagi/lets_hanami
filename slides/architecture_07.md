@@ -1,4 +1,4 @@
-### ディレクトリ構成
+### directory
 
 * "Application Core"となるファイルをlibに、"Delivery Mechanisms"の為のファイルを"apps"に格納するようになっている
   * となると、"mailer"が"lib"にあるのはちょっと違和感があるのだが、今後"apps"配下に移動予定とのこと
