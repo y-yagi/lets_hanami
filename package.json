@@ -1,5 +1,5 @@
 {
-  "name": "ruby-2-4-with-rails",
+  "name": "Lets-Hanami",
   "version": "0.0.0",
   "private": true,
   "devDependencies": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:y-yagi/rails5_1.git"
+    "url": "git@github.com:y-yagi/lets_hanami.git"
 
   },
   "scripts": {
