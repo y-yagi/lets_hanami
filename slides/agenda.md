@@ -1,6 +1,6 @@
-### アジェンダ
+## おしながき
 
-* Sequelとは
-* 使い方
-* Sequel vs Active Record
-* Think use case
+* Hanamiとは
+* Hanami v1.0.0
+* 各ライブラリ概要
+* Hanamiの今後

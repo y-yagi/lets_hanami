@@ -1,2 +1,0 @@
-## Sequel vs Active Record
-
